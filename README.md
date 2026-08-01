@@ -45,6 +45,10 @@ The objective is to discover meaningful crime trends and build predictive models
 
 ![Cumulative Crime Analysis](cumulative-Stacked-Area-Chart.png)
 
+### Crime type Histogram
+
+![ Crime Type Histogram](Crime-Type-Histogram.png)
+
 ---
 
 # 🚀 Features
@@ -205,9 +209,9 @@ UK-Crime-Analysis
 # ⚙ Installation
 
 ```bash
-git clone https://github.com/<your-username>/UK-Crime-Analysis.git
+git clone https://github.com/<Shumaila1987/Crime-Prediction-Using-Machine-Learning>.git
 
-cd UK-Crime-Analysis
+cd Crime-Prediction-Using -Machine-Learning
 
 pip install -r requirements.txt
 ```
@@ -240,13 +244,13 @@ UK_Crime_dataset.ipynb
 
 # 👤 Author
 
-**Your Name**
+**Shumaila Liaqat**
 
 Data Analytics | Machine Learning | Python
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Shumaila1987
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/Shumaila1987
 
 ---
 
