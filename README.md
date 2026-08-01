@@ -218,9 +218,9 @@ UK-Crime-Analysis
 git clone https://github.com/<Shumaila1987/Crime-Prediction-Using-Machine-Learning>.git
 
 cd
- Crime-Prediction-Using -Machine-Learning
+ Crime-Prediction-Using-Machine-Learning
 
-pip install -r requirements.txt
+pip install-r requirements.txt
 ```
 
 ---
