@@ -43,7 +43,7 @@ The objective is to discover meaningful crime trends and build predictive models
 
 ### Cumulative Crime Analysis
 
-![Cumulative Crime Analysis](cumulative-crime-analysis.png)
+![Cumulative Crime Analysis](cumulative-Skeched-Area-Chart.png)
 
 ---
 
