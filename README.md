@@ -49,6 +49,10 @@ The objective is to discover meaningful crime trends and build predictive models
 
 ![Crime Type Histogram](Crime-Type-Histogram-Analysis.png)
 
+### Stop & search per age & gender Analysis
+
+![Stop & search per age & gender Analysis](Stop-and-search-per-age-and-gender-Analysis.png).
+
 ---
 
 # 🚀 Features
