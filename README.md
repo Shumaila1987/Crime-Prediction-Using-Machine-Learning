@@ -47,7 +47,7 @@ The objective is to discover meaningful crime trends and build predictive models
 
 ### Crime type Histogram
 
-![ Crime Type Histogram](Crime-Type-Histogram.png)
+![Crime Type Histogram](Crime-Type-Histogram-Analysis.png)
 
 ---
 
