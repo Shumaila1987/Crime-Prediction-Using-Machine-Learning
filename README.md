@@ -257,7 +257,7 @@ Data Analytics | Machine Learning | Python
 
 GitHub: https://github.com/Shumaila1987
 
-LinkedIn: https://linkedin.com/in/Shumaila1987
+LinkedIn: https://linkedin.com/in/shumaila-liaqat
 
 ---
 
