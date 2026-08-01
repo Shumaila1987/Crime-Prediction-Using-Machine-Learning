@@ -145,9 +145,9 @@ The notebook investigates:
 Visualizations include:
 
 - Histograms
-- Heatmaps
+- Line Charts
 - Interactive Charts
-- Pie Charts
+- Cumulative Charts
 - Maps
 - Time Series Graphs
 
@@ -167,6 +167,7 @@ Evaluation Metrics:
 - Precision
 - Recall
 - F1-score
+- ROC curve
 
 ---
 
@@ -202,9 +203,10 @@ UK-Crime-Analysis
 ├── UK_Crime_dataset.ipynb
 ├── data/
 ├── images/
-│   ├── dashboard.png
-│   ├── heatmap.png
-│   └── crime_map.png
+│   ├── Multiline-Time-Series-Analysis.png
+│   ├── Cumulative-Crime-Analysis.png
+│   └── Crime-Type-Histogram-Analysis.png
+    |__ Stop-and-search-per-age-and-gender-Analysis.png
 └── outputs/
 ```
 
@@ -215,7 +217,8 @@ UK-Crime-Analysis
 ```bash
 git clone https://github.com/<Shumaila1987/Crime-Prediction-Using-Machine-Learning>.git
 
-cd Crime-Prediction-Using -Machine-Learning
+cd
+ Crime-Prediction-Using -Machine-Learning
 
 pip install -r requirements.txt
 ```
