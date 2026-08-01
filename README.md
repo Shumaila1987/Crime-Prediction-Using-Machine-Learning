@@ -39,7 +39,7 @@ The objective is to discover meaningful crime trends and build predictive models
 
 ### Time Series Analysis
 
-![Multiline Time Series Analysis](Cumulative-Crime-Analysis .png)
+![Multiline Time Series Analysis](Multiline-Time-Series-Analysis.png)
 
 ### Cumulative Crime Analysis
 
